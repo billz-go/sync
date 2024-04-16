@@ -1,4 +1,4 @@
-module billz.io/go/sync
+module github.com/billz-go/sync
 
 go 1.22
 
